@@ -1,5 +1,6 @@
 # About
 DC-34-Display contains proof of concept, code, and design files for the 
+Crtstalfontz 240x320 2.4" Resistive Touchscreen TFT Display.
 
 # Resoueces
 Manufacturers product page
