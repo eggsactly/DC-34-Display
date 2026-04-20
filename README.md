@@ -9,5 +9,5 @@ Manufacturers sample code:
 [https://github.com/crystalfontz/CFAF240320A0-024Sx](https://github.com/crystalfontz/CFAF240320A0-024Sx)
 
 # Schematic 
-[Circuit Schematic](https://i.imgur.com/tmYX2MR.png)
+![Circuit Schematic](https://i.imgur.com/tmYX2MR.png)
 
