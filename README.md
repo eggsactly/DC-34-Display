@@ -9,5 +9,10 @@ Manufacturers product page
 Manufacturers sample code:
 [https://github.com/crystalfontz/CFAF240320A0-024Sx](https://github.com/crystalfontz/CFAF240320A0-024Sx)
 
+# Structure 
+- DisplayPrototype contains an Arduino sketch for driving the display
+- DisplayPrototypeSketch.fzz contains a fritzing diagram for how to wire the 
+display, which is also displayed in the Schematic section of this README.
+
 # Schematic 
 ![Circuit Schematic](https://i.imgur.com/096h8Sa.png)
