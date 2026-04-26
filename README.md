@@ -15,4 +15,4 @@ Manufacturers sample code:
 display, which is also displayed in the Schematic section of this README.
 
 # Schematic 
-![Circuit Schematic](https://i.imgur.com/096h8Sa.png)
+![Circuit Schematic](https://i.imgur.com/C67pxV7.png)
