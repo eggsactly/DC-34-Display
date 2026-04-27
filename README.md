@@ -17,6 +17,11 @@ display, which is also displayed in the Schematic section of this README.
 # Schematic 
 ![Circuit Schematic](https://i.imgur.com/WbbEaF8.png)
 
+# Bill of Materials
+- [https://www.adafruit.com/product/5323](https://www.adafruit.com/product/5323)
+- [https://www.crystalfontz.com/product/cfaf240320a0024sr-240x320-resistive-touchscreen-tft-display](https://www.crystalfontz.com/product/cfaf240320a0024sr-240x320-resistive-touchscreen-tft-display)
+- [https://www.crystalfontz.com/product/cfabbcs050z40gb0-40-position-zif-breakout-board](https://www.crystalfontz.com/product/cfabbcs050z40gb0-40-position-zif-breakout-board)
+
 # Software Setup
 Sketch > Include Library > Manage Libraries...
 
